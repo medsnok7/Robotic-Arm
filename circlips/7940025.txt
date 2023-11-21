@@ -1,0 +1,16 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"7940025";"";
+"MATERIAL";"Acier";"";
+"SUPPLIER";"Emile Maurin";"";
+"PLATING";"Brut";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartNumber";"10-15012020-083743";"";
+"TraceParts.PartLanguage";"fr";"";
+"DESIGN";"79400 CIRCLIPS EXTÉRIEUR POUR ARBRE - 7940025";"";
+"TraceParts.InstanceId";"10-15012020-08374320BM7NZEZFY35O8VZS1N6TRRM";"";
+"TraceParts.PartTitle";"79400 CIRCLIPS EXTÉRIEUR POUR ARBRE";"";
+"TraceParts.PartVersion";"1.0.6";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"STANDARD1";"DIN 471";"";
+"TraceParts.ClassPath";"EM_FIX_INDUS:10-15012020-083743";"";

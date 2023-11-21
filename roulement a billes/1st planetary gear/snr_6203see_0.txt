@@ -1,0 +1,11 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-14122000-115396";"";
+"REFERENCE";"6203SEE";"";
+"STANDARD";"ISO 15";"";
+"TraceParts.PartTitle";"Single-row radial ball bearing with spherical outer diameter and 2 seals - for shaft Ø17";"";
+"TraceParts.InstanceId";"10-14122000-115396AE0WIDC3C2271U9F9HM6QS4MM";"";
+"SUPPLIER";"NTN-SNR Roulements";"";
+"DESIGN";"Single-row radial ball bearing with spherical outer diameter and 2 seals - for shaft Ø17";"";
+"TraceParts.PartVersion";"1.5.6";"";
+"TraceParts.PartLanguage";"en";"";
+"MASS";"0.06";"";

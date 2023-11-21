@@ -1,0 +1,7 @@
+Les occurrences suivantes ont été supprimées ou ouvertes à partir d'un nouvel emplacement lors de l'ouverture de ce fichier.
+
+Fichier	Raison	
+C:\Users\USER\Desktop\BOLT ROBOTIC ARM CONCEPTION\2nd arm cover2.SLDPRT	Impossible de trouver le fichier
+C:\Users\USER\Desktop\BOLT ROBOTIC ARM CONCEPTION\ELbowWristArm.SLDPRT	Impossible de trouver le fichier
+C:\Users\USER\Desktop\BOLT ROBOTIC ARM CONCEPTION\elbowStick.SLDPRT	Impossible de trouver le fichier
+
